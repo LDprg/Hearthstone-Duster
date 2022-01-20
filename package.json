@@ -1,0 +1,15 @@
+{
+  "devDependencies": {
+    "@types/node": "^17.0.10",
+    "typescript": "^4.5.4"
+  },
+  "dependencies": {
+    "fetch-blob": "^3.1.4",
+    "hearthstonejson-client": "^1.11.0",
+    "node-domexception": "^1.0.0",
+    "node-fetch": "^2.6.7",
+    "node-json-db": "^1.4.1",
+    "rollup": "^2.64.0",
+    "yarn": "^1.22.17"
+  }
+}
