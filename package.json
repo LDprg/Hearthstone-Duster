@@ -9,7 +9,7 @@
     "node-domexception": "^1.0.0",
     "node-fetch": "^2.6.7",
     "node-json-db": "^1.4.1",
-    "rollup": "^2.64.0",
+    "rollup": "^3.29.5",
     "yarn": "^1.22.17"
   }
 }
